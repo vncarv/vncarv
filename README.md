@@ -32,7 +32,7 @@ material, starting with a browser-based financial calculator.
 
 ## Background
 
-- **Bachelor of Laws** — legal training applied directly to the products I
+- **Bachelor of Laws** — legal reasoning applied directly to the products I
   build: terms of service, privacy policy and LGPD compliance written and
   reviewed by me.
 - **Financial markets** — trading and market experience, and the origin of
