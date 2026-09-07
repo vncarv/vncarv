@@ -18,7 +18,7 @@ Permanence is earned from the audience, never bought.
 Flutter and Dart on Android, Firebase Cloud Functions on the server, Google
 Cloud for content safety. Conceived, designed and built by me.
 
-[Visit LifeLike →](https://lifelike.social) · [Repository →](https://github.com/vncarv/lifelike)
+[Google Play →](https://play.google.com/store/apps/details?id=social.lifelike.app) · [Visit LifeLike →](https://lifelike.social) · [Repository →](https://github.com/vncarv/lifelike)
 
 ### OutflowResearch — *in development*
 
